@@ -1,1 +1,2 @@
 test 
+text by fetch and merge
